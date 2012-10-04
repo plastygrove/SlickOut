@@ -13,3 +13,11 @@ To try this out, you need to have eclipse with a valid workspace. Do a git clone
 git clone https://github.com/plastygrove/SlickOut.git
 
 in your workspace. Then import it using File->Import->General->Existing Projects into Workspace
+
+Additional Features over tutorial
+=================================
+
+1. Ball direction can be controlled depending on where it lands on the paddle. Middle = perfect reflective bounce. Edges alters the intended ball direction by 30 degrees with varying values between center and either edges
+2. Bricks change colour depending on how many hits they've got left. This only happens on collision. Initial colour still remains
+3. Added Sounds
+
