@@ -6,3 +6,10 @@ Code for the excellent tutorial on game dev using Slick2D (which uses LWJGL) don
 
 The full tutorial is available at:
 http://slick.cokeandcode.com/wiki/doku.php?id=03_-_slickout
+
+
+To try this out, you need to have eclipse with a valid workspace. Do a git clone using 
+
+git clone https://github.com/plastygrove/SlickOut.git
+
+in your workspace. Then import it using File->Import->General->Existing Projects into Workspace
